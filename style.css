@@ -1,0 +1,14 @@
+* { padding: 0; margin: 0; }
+p { color: #666666; font-family: Helvetica; font-size: 14px; line-height: 24px; margin-bottom: 22px; -webkit-font-smoothing: antialiased; }
+h1 { color: #333333; font-family: Helvetica; font-size: 38px; line-height: 24px; margin-bottom: 22px; -webkit-font-smoothing: antialiased; }
+h2 { color: #666666; font-family: Helvetica; font-size: 18px; line-height: 24px; margin-bottom: 22px; -webkit-font-smoothing: antialiased; text-align: center; }
+a { color: #666666; text-decoration: none; font-size: 14px;}
+a:hover { color: #666666; text-decoration: underline; }
+#floatholder { width: 50px; padding: 50px 0 0 0; margin: 0 auto 0 50px; }
+#about { width: 400px; padding: 30px 20px 20px 20px; margin: -35px 50px 0 auto !important; background-color: #fff; border-radius: 15px; }
+#tweets{ color: #666666; font-family: Helvetica; font-size: 12px; line-height: 24px; margin-bottom: 22px; -webkit-font-smoothing: antialiased; background:#efefef; border-radius: 15px; padding: 10px 20px 10px 20px; }
+#tweets ul{ list-style-type: none; }
+#tweets a{ font-size: 12px; }
+#tweetsicon { float: left; padding: 5px 15px 0 0; margin-bottom: 45px; }
+#socialbadge { padding: 0px 0px 0px 5px; }
+
